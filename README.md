@@ -1,4 +1,4 @@
-this game is about guess the number of secret code!,
+this project is game about guess the number of secret code!,
 you decide to length of secret code or characters in this secret code,
 you may decide what characters can be in secret code from 0-9 or a-z max characters in secret code is 36,
 if a character in the given answer matches a digit and its position in the code, it's called a "bull",
